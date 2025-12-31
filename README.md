@@ -50,7 +50,6 @@ Principales variables :
 
 📌 Fichier
 	•	Analyse_ventes_Excel.xlsx : fichier Excel contenant les données, analyses et dashboard
-Visualisation claire pour un usage décisionnel 📷 Aperçu du dashboard
 ⸻
 
 🧠 Contexte
